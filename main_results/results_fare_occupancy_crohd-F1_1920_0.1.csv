@@ -1,0 +1,9 @@
+seq,line,setting,revenue_gt,revenue_pred,revenue_err_pct,occupancy_MAE,final_occ_gt,final_occ_pred
+HT21-01,H_mid,B_oracle_det,140.0,140.0,0.0,0.0,14,14
+HT21-01,H_mid,C_full,140.0,110.0,-21.428571428571427,1.5,14,11
+HT21-01,V_mid,B_oracle_det,50.0,50.0,0.0,0.0,0,0
+HT21-01,V_mid,C_full,50.0,30.0,-40.0,0.0,0,0
+HT21-04,H_mid,B_oracle_det,560.0,550.0,-1.7857142857142858,0.75,41,41
+HT21-04,H_mid,C_full,560.0,480.0,-14.285714285714286,4.0,41,35
+HT21-04,V_mid,B_oracle_det,880.0,840.0,-4.545454545454546,1.125,13,12
+HT21-04,V_mid,C_full,880.0,880.0,0.0,3.875,13,18
